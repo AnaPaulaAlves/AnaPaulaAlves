@@ -1,7 +1,5 @@
 ## Ola! Eu sou a Ana Paula 👋
 
-
-
 - 🔭 Hoje trabalho como Analista de teste
 
 <div align="center">
