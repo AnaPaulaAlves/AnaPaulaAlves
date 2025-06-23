@@ -5,7 +5,11 @@
 <div align="center">
   <a href="https://github.com/anapaulaalves">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anapaulaalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulaalves&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulaalves&layout=compact&langs_count=7&theme=dracula"/><img align="center" alt="Jira" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
+<img align="center" alt="Scrum" height="30" width="40" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-scrum-agile-flatart-icons-outline-flatarticons.png" />
+<img align="center" alt="Kanban" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/kanban.png" />
+
+    
   </a>
 </div>
 
