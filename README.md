@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Ana Paula 👋
 
-- 🔭 Hoje trabalho como Analista de Teste
+- 💻 QA com experiência em testes manuais e 🧪conhecimento em automação com Cypress e testes de API usando Postman. Apaixonado por qualidade e sempre buscando evoluir na área de testes.
 
 <div align="center">
   <a href="https://github.com/anapaulaalves">
