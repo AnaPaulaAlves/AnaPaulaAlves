@@ -20,6 +20,9 @@
   <img align="center" alt="Ana-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ana-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Ana-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  <img align="center" alt="Jira" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
+  <img align="center" alt="Scrum" height="30" width="40" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-scrum-agile-flatart-icons-outline-flatarticons.png" />
+  <img align="center" alt="Kanban" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/kanban.png" />
 </div>
 
 ---
