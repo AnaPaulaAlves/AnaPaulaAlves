@@ -1,6 +1,9 @@
 ## Olá! Eu sou a Ana Paula 👋
 
-- 💻 QA com experiência em testes manuais e 🧪conhecimento em automação com Cypress e testes de API usando Postman. Apaixonado por qualidade e sempre buscando evoluir na área de testes.
+ 💻 QA com experiência em testes manuais e 🧪conhecimento em automação com Cypress e testes de API usando Postman.  
+ 🛠️ Familiaridade com metodologias ágeis como **Scrum** e **Kanban**, e uso de ferramentas como **Jira**.  
+ Apaixonada por qualidade e sempre buscando evoluir na área de testes.
+
 
 <div align="center">
   <a href="https://github.com/anapaulaalves">
